@@ -15,7 +15,7 @@
                debug    = adds options mlogic mprint 
                           and retains intermediary datasets     default = N (disabled)
 * Output     : variableX ... variableN
-* Programmer : JST
+* Programmer : Josephine Strange
 *
 ***************************************************************************;
 %macro splitvar(inds=,var=,outds=,pfx=&var.,sfxst=1,dlm=" ",len=200,drop=N,debug=N) / des="Splits variables dynamically";
