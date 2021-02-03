@@ -1,7 +1,5 @@
 ***************************************************************************
 *
-* Sponsor    : Larix A/S
-* Project    : Internal
 * Name       : splitvar.sas
 * Description: Dynamically splits a variable in a SAS dataset on a user-
                specified delimiter, such that the output variables do not 
